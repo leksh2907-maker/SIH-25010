@@ -41,7 +41,8 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-![alt text](villaichal.png)
+![alt text](<Screenshot 2025-09-29 141239.png>)
+
 
 ## Technical Approach
 <ul><li>Frontend: CSS for designing the user interface</li>
