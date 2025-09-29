@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/9/2025
+## Register Number:25016379
+## Name:LEKSHMEENDHRA S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,23 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+![alt text](villaichal.png)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<ul><li>Frontend: CSS for designing the user interface</li>
+<li>Backend: MySQL for database management</li>
+<li>file Logic: Python for implementing AI-based advisory features<li><ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<ul><li>The proposed system is feasible due to the availability of open-source AI models, affordable smartphones, and increasing rural internet penetration. It is viable because it addresses real farmer challenges while being across different region and language.</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<ul><li>Social: Improves farmers’ decision-making, reduces dependency on unreliable advice.</li>
+<li>Economic: Optimizes input usage, reduces costs, and increases crop yield</li>
+<li>Environmental: Encourages sustainable practices, reduces overuse of chemicals</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<ul><li>HINDHU NEWS (2025) – Small and Marginal Farmers in India.
+<li>GOOGLE– Crop yield improvement statistics.</li>
+<li>farmer-challenges , feasibility and viability
+</li></ul>
