@@ -57,7 +57,8 @@ Agriculture, FoodTech & Rural Development
 <li>Environmental: Encourages sustainable practices, reduces overuse of chemicals</li></ul>
 
 ## Research and References
-<ul><li>HINDHU NEWS (2025) – Small and Marginal Farmers in India.
-<li>GOOGLE– Crop yield improvement statistics.</li>
+<ul><li>HINDHU NEWS (2025) – Small and Marginal Farmers in India.(https://www.thehindu.com › sci-tech › agriculture
+)
+<li>GOOGLE– Crop yield improvement statistics(https://en.wikipedia.org ).</li>
 <li>farmer-challenges , feasibility and viability
 </li></ul>
